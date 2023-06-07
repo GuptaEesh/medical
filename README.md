@@ -8,4 +8,4 @@
 
 # Tech
 > React JS
-> useContext + useReducer for state management
+> useContext + useReducer for state management.
