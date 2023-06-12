@@ -9,3 +9,6 @@
 # Tech
 - React JS
 - useContext + useReducer for state management.
+
+
+![ss1](https://github.com/GuptaEesh/medical/assets/90090601/2b76fac1-02b6-49d9-bcef-78bb3e699076)
